@@ -14,14 +14,16 @@
 
 ### 🚀 Sobre mí
 
-Desarrollador frontend especializado en **Angular** y **TypeScript**, con experiencia también en **Node.js** y desarrollo fullstack. Vengo de roles de coordinación y atención al cliente, donde desarrollé comunicación, resolución de problemas y trabajo en equipo — hoy aplico esa misma disciplina a construir software.
+Desarrollador frontend enfocado en **Angular**, **TypeScript** y **Tailwind**, también con
+conocimiento en **Node.js** y desarrollo fullstack. Vengo de roles de coordinación, atención y
+soporte a clientes B2B, donde desarrollé habilidades de comunicación, resolución de problemas
+y trabajo en equipo. Hoy aplico esa misma disciplina al desarrollo de software.
 
-Estudié **Licenciatura en Ciencias de la Computación** en la UNC-FAMAF, y sigo capacitándome constantemente (Coderhouse, Argentina Programa 4.0) mientras construyo proyectos propios.
+Estudié **Licenciatura en Ciencias de la Computación** en la UNC-FAMAF, participé en Argentina Programa 4.0 y sigo capacitándome constantemente (Coderhouse) mientras construyo proyectos propios.
 
 - 🔭 Actualmente construyendo proyectos personales con **Angular 20** y **NestJS**
 - 🌱 Aprendiendo automatización con **n8n**
 - 💬 Preguntame sobre Angular, TypeScript o Tailwind CSS
-- 📫 Cómo contactarme: **mivan.dev@gmail.com**
 
 ---
 
@@ -50,12 +52,3 @@ Estudié **Licenciatura en Ciencias de la Computación** en la UNC-FAMAF, y sigo
 - **[Portfolio](https://github.com/Mivan-dev/portfolio)** — Mi sitio personal, hecho con Angular 20 + Tailwind CSS.
 - **[Expenses Manager](https://github.com/Mivan-dev/expenses-manager)** — Control de gastos personales con manejo de cuotas, Angular 20 standalone + Tailwind v4.
 - **[Todo App](https://github.com/Mivan-dev/todo-app)** — Gestor de tareas.
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mivan-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mivan-dev&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-</p>

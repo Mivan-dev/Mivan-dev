@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/mivan-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mivan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://portfolio-ivan-mendoza.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
 

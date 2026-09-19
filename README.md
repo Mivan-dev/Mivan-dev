@@ -14,8 +14,7 @@
 
 ### 🚀 Sobre mí
 
-Desarrollador frontend enfocado en **Angular**, **TypeScript** y **Tailwind**, también con
-conocimiento en **Node.js** y desarrollo fullstack. Vengo de roles de coordinación, atención y
+Desarrollador frontend enfocado en **Angular**, **TypeScript** y **Tailwind**. Construyo aplicaciones fullstack con NestJS y PostgreSQL, integrando autenticación JWT, Prisma ORM y APIs REST. Vengo de roles de coordinación, atención y
 soporte a clientes B2B, donde desarrollé habilidades de comunicación, resolución de problemas
 y trabajo en equipo. Hoy aplico esa misma disciplina al desarrollo de software.
 

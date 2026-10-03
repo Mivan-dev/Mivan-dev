@@ -14,14 +14,13 @@
 
 ### 🚀 Sobre mí
 
-Desarrollador frontend enfocado en **Angular**, **TypeScript** y **Tailwind**. Construyo aplicaciones fullstack con NestJS y PostgreSQL, integrando autenticación JWT, Prisma ORM y APIs REST. Vengo de roles de coordinación, atención y
-soporte a clientes B2B, donde desarrollé habilidades de comunicación, resolución de problemas
-y trabajo en equipo. Hoy aplico esa misma disciplina al desarrollo de software.
+Soy Desarrollador Frontend con formación en Ciencias de la Computación (UNC-FAMAF) y especialización en Angular. Me divierte construir aplicaciones fullstack, suelo utilizar NestJS, Prisma ORM y PostgreSQL, integrando autenticación JWT y APIs REST. Tambien en ocaciones creo automatizaciones con n8n o Make para ahorrar tiempo en tareas y para colegas.
+Antes de dedicarme a programar a tiempo completo lidere equipos en entornos logísticos de alta exigencia, supervise integraciones de APIs en SAP, siempre orientado a mejores resultados de productividad y minimización de costos.
 
-Estudié **Licenciatura en Ciencias de la Computación** en la UNC-FAMAF, participé en Argentina Programa 4.0 y sigo capacitándome constantemente (Coderhouse) mientras construyo proyectos propios.
+Me encanta analizar el impacto de la tecnología y la IA. Si buscas a alguien con quien debatir a fondo puntos de vista, ¡escrime y charlemos! ☕
 
-- 🔭 Actualmente construyendo proyectos personales con **Angular 20** y **NestJS**
-- 🌱 Aprendiendo automatización con **n8n**
+- 🔭 Actualmente construyendo proyectos personales con **Angular** y **NestJS**
+- 🌱 Profundizando en automatización con **n8n**
 - 💬 Preguntame sobre Angular, TypeScript o Tailwind CSS
 
 ---
